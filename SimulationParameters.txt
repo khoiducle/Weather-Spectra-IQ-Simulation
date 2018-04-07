@@ -1,0 +1,5 @@
+SNR; 30 ;dB
+Noi Power; 1 ;Watts
+Num Samples; 1000 ;#
+Vr Aliasing; 20 ;m/s
+Frequency; 3.0 ;GHz
